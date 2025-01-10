@@ -4,9 +4,11 @@
 
 ## Credenciales válidas para el Acceso:
 Usuario: admin
+
 Contraseña: 1234567
 
 Estas credenciales fueron almacenadas en la base de datos MySQL:
+
 ![{8B5821A2-E893-4426-AE73-E84241DA52F5}](https://github.com/user-attachments/assets/29674baf-4736-4e86-9d0b-7fea15c3b922)
 
 
@@ -38,7 +40,9 @@ Se valida que la calificación debe estar entre 0 y 20, siguiendo un formato "0.
 Si un registro no es insertado, el programa no no incluirá y pedirá que se ingrese:
 
 ![{97D04BE2-A1D4-4029-B53A-8CAD3CD73DDD}](https://github.com/user-attachments/assets/f5f47df3-e252-4ad3-9d3e-8cae3d149622)
+
 ![{1C6F96B7-7DFA-4B69-BCE5-81441683CF14}](https://github.com/user-attachments/assets/538429bf-862f-4a03-814e-108f8827016d)
+
 ![{3FDB60D0-68A7-44E5-9A73-A379C59FA7F3}](https://github.com/user-attachments/assets/e89ec587-7728-4193-98a7-cc9f7375a945)
 
 
